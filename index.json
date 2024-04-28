@@ -401,10 +401,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.50.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.51.apk",
     "lang": "id",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -413,7 +413,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.vip",
+        "baseUrl": "https://komikcast.lol",
         "versionId": 1
       }
     ]
@@ -521,10 +521,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.36.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -533,7 +533,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami.sh",
+        "baseUrl": "https://shinigami.cx",
         "versionId": 1
       }
     ]
@@ -561,10 +561,10 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.28.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -573,7 +573,7 @@
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.info",
+        "baseUrl": "https://westmanga.net",
         "versionId": 1
       }
     ]

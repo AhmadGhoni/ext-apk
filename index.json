@@ -519,6 +519,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Sekte Komik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.sektekomik",
+    "apk": "tachiyomi-id.sektekomik-v1.4.28.apk",
+    "lang": "id",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sekte Komik",
+        "lang": "id",
+        "id": "7081372932062301579",
+        "baseUrl": "https://sektekomik.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
     "apk": "tachiyomi-id.shinigami-v1.4.37.apk",

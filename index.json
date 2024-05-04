@@ -439,6 +439,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: KomikRealm",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikrealm",
+    "apk": "tachiyomi-id.komikrealm-v1.4.8.apk",
+    "lang": "id",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KomikRealm",
+        "lang": "id",
+        "id": "6398435372809698551",
+        "baseUrl": "https://www.komikrealm.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komiku",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiku",
     "apk": "tachiyomi-id.komiku-v1.4.17.apk",
@@ -535,6 +555,26 @@
         "id": "2636071300407720294",
         "baseUrl": "https://noromax.my.id",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Otsugami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.otsugami",
+    "apk": "tachiyomi-id.otsugami-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Otsugami",
+        "lang": "id",
+        "id": "6180918733699384067",
+        "baseUrl": "https://otsugami.id",
+        "versionId": 1
       }
     ]
   },

@@ -441,10 +441,10 @@
   {
     "name": "Tachiyomi: KomikRealm",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikrealm",
-    "apk": "tachiyomi-id.komikrealm-v1.4.8.apk",
+    "apk": "tachiyomi-id.komikrealm-v1.4.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

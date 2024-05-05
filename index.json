@@ -521,10 +521,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.41.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.42.apk",
     "lang": "id",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

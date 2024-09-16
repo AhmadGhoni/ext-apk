@@ -421,10 +421,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.15.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.16.apk",
     "lang": "id",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -433,7 +433,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo.tv",
+        "baseUrl": "https://komikindo.ws",
         "versionId": 1
       }
     ]
@@ -481,10 +481,10 @@
   {
     "name": "Tachiyomi: MangaTale",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.27.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.28.apk",
     "lang": "id",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -493,7 +493,7 @@
         "name": "MangaTale",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://mangatale.co",
+        "baseUrl": "https://mangatale.id",
         "versionId": 1
       }
     ]
@@ -501,10 +501,10 @@
   {
     "name": "Tachiyomi: Mangayaro",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangayaro",
-    "apk": "tachiyomi-id.mangayaro-v1.4.27.apk",
+    "apk": "tachiyomi-id.mangayaro-v1.4.28.apk",
     "lang": "id",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -513,7 +513,7 @@
         "name": "Mangayaro",
         "lang": "id",
         "id": "7392420618052254784",
-        "baseUrl": "https://mangayaro.id",
+        "baseUrl": "https://www.nowheartruth.com",
         "versionId": 1
       }
     ]

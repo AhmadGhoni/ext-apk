@@ -381,10 +381,10 @@
   {
     "name": "Tachiyomi: KlikManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.klikmanga",
-    "apk": "tachiyomi-id.klikmanga-v1.4.33.apk",
+    "apk": "tachiyomi-id.klikmanga-v1.4.34.apk",
     "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -393,7 +393,7 @@
         "name": "KlikManga",
         "lang": "id",
         "id": "5213948951740602020",
-        "baseUrl": "https://klikmanga.id",
+        "baseUrl": "https://klikmanga.com",
         "versionId": 1
       }
     ]

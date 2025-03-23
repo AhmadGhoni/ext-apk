@@ -541,10 +541,10 @@
   {
     "name": "Tachiyomi: Noromax",
     "pkg": "eu.kanade.tachiyomi.extension.id.noromax",
-    "apk": "tachiyomi-id.noromax-v1.4.27.apk",
+    "apk": "tachiyomi-id.noromax-v1.4.28.apk",
     "lang": "id",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -553,7 +553,7 @@
         "name": "Noromax",
         "lang": "id",
         "id": "2636071300407720294",
-        "baseUrl": "https://noromax.my.id",
+        "baseUrl": "https://noromax01.my.id",
         "versionId": 2
       }
     ]

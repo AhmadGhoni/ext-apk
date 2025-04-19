@@ -341,10 +341,10 @@
   {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
-    "apk": "tachiyomi-id.bacakomik-v1.4.7.apk",
+    "apk": "tachiyomi-id.bacakomik-v1.4.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -353,15 +353,15 @@
         "name": "BacaKomik",
         "lang": "id",
         "id": "4383360263234319058",
-        "baseUrl": "https://bacakomik.net",
+        "baseUrl": "https://bacakomik.one",
         "versionId": 1
       }
     ]
   },
   {
-    "name": "Tachiyomi: Ikiru",
-    "pkg": "eu.kanade.tachiyomi.extension.id.ikiru",
-    "apk": "tachiyomi-id.ikiru-v1.4.28.apk",
+    "name": "Tachiyomi: Cosmictoon",
+    "pkg": "eu.kanade.tachiyomi.extension.id.cosmictoon",
+    "apk": "tachiyomi-id.cosmictoon-v1.4.28.apk",
     "lang": "id",
     "code": 28,
     "version": "1.4.28",
@@ -370,10 +370,30 @@
     "hasChangelog": 0,
     "sources": [
       {
+        "name": "Cosmictoon",
+        "lang": "id",
+        "id": "673690826043624764",
+        "baseUrl": "https://cosmic345.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ikiru",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ikiru",
+    "apk": "tachiyomi-id.ikiru-v1.4.29.apk",
+    "lang": "id",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
         "name": "Ikiru",
         "lang": "id",
         "id": "4661882584559156515",
-        "baseUrl": "https://ikiru.world",
+        "baseUrl": "https://id.ikiru.wtf",
         "versionId": 1
       }
     ]
@@ -381,10 +401,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.35.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.36.apk",
     "lang": "id",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -393,7 +413,7 @@
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu.id",
+        "baseUrl": "https://kiryuu01.com",
         "versionId": 1
       }
     ]
@@ -421,10 +441,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.55.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.56.apk",
     "lang": "id",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -433,7 +453,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.bz",
+        "baseUrl": "https://komikcast02.com",
         "versionId": 1
       }
     ]
@@ -441,10 +461,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.19.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.20.apk",
     "lang": "id",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -453,27 +473,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo1.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: KomikRealm",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komikrealm",
-    "apk": "tachiyomi-id.komikrealm-v1.4.9.apk",
-    "lang": "id",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KomikRealm",
-        "lang": "id",
-        "id": "6398435372809698551",
-        "baseUrl": "https://www.komikrealm.my.id",
+        "baseUrl": "https://komikindo3.com",
         "versionId": 1
       }
     ]
@@ -494,46 +494,6 @@
         "lang": "id",
         "id": "4838485846640015979",
         "baseUrl": "https://komiku.id",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaTale",
-    "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.29.apk",
-    "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaTale",
-        "lang": "id",
-        "id": "1532456597012176985",
-        "baseUrl": "https://mangatale.id",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangayaro",
-    "pkg": "eu.kanade.tachiyomi.extension.id.mangayaro",
-    "apk": "tachiyomi-id.mangayaro-v1.4.29.apk",
-    "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangayaro",
-        "lang": "id",
-        "id": "7392420618052254784",
-        "baseUrl": "https://www.nowheartruth.com",
         "versionId": 1
       }
     ]

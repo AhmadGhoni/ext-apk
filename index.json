@@ -1,5 +1,25 @@
 [
   {
+    "name": "Tachiyomi: Local Private",
+    "pkg": "eu.kanade.tachiyomi.extension.all.localprivate",
+    "apk": "tachiyomi-all.localprivate-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Local Private",
+        "lang": "all",
+        "id": "7964002273047446488",
+        "baseUrl": "http://192.168.10.101:5050",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
     "apk": "tachiyomi-all.webtoons-v1.4.41.apk",

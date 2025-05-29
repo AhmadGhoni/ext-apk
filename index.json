@@ -481,10 +481,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.20.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.21.apk",
     "lang": "id",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -493,7 +493,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo3.com",
+        "baseUrl": "https://komikindo.rip",
         "versionId": 1
       }
     ]
@@ -501,10 +501,10 @@
   {
     "name": "Tachiyomi: Komiku",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiku",
-    "apk": "tachiyomi-id.komiku-v1.4.18.apk",
+    "apk": "tachiyomi-id.komiku-v1.4.19.apk",
     "lang": "id",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -513,7 +513,7 @@
         "name": "Komiku",
         "lang": "id",
         "id": "4838485846640015979",
-        "baseUrl": "https://komiku.id",
+        "baseUrl": "https://komiku.org",
         "versionId": 1
       }
     ]
@@ -641,10 +641,10 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.30.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -653,7 +653,7 @@
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.fun",
+        "baseUrl": "https://westmanga.me",
         "versionId": 1
       }
     ]

@@ -481,10 +481,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.21.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.22.apk",
     "lang": "id",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -493,7 +493,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo.rip",
+        "baseUrl": "https://komikindo.ch",
         "versionId": 1
       }
     ]

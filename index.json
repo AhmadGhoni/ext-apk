@@ -401,10 +401,10 @@
   {
     "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.ikiru",
-    "apk": "tachiyomi-id.ikiru-v1.4.32.apk",
+    "apk": "tachiyomi-id.ikiru-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,

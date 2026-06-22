@@ -461,10 +461,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.58.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.59.apk",
     "lang": "id",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -473,7 +473,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://v1.komikcast.fit",
+        "baseUrl": "https://v3.komikcast.fit",
         "versionId": 1
       }
     ]
